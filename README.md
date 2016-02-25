@@ -1,26 +1,56 @@
-# MarkDownBasic   
-##Hello to Markdown
-It my first repo and writing a markdown.  
-for best Practice
+>`> Qoute Style`  
+Qoute Style  
 
-> MarkDown is best to convert in valid html
-*It is __easy-to-read__ and write* 
- * Item1
- * Item2
- * Item3
- * Item4
- * ITem5
- * Item6
- 
- - Item1
- - Item2
- - Item3
-Here's an idea: why don't we take `SuperiorProject` and turn it into `**Reasonable** Project`.
+<br/>
+>` 1. Order List First`  
+1. Order List First  
+2. Second  
+3. Third  
+ `1. inner list`
+ 1. inner list  
 
 
+<br/>
+>`* unorder`  
+* unorder  <br/>
+>`* inner unorder1`  
+ * inner unorder1
+
+<br/>
+>`Correct Link **[google.com](https://www.google.com)**`  
+Correct Link **[google.com](https://www.google.com)**  
+
+<br/>
+>`~~Wrong link [https://www.google.com](www.google.com)~~`  
+~~Wrong link [https://www.google.com](www.google.com)~~  
+
+<br/>
+>`__Bold__`   
+__Bold__  
+
+<br/>
+>`*italic*`  
+*italic*  
+
+<br/>
+>`**Bold**`  
+**Bold** 
+
+<br/>
+>`~~Strike~~`  
+~~Strike~~  
+
+>
 ```
-x = 0
-x = 2 + 2
-what is x
-```
-[Visit GitHub ] (https://github.com/MOHAMMADArsalan/Hello-World/edit/master/README.md)
+full with background
+```  
+<br/>
+
+- [x] Done  
+- [ ] Reamin content
+- [x] Home Done  
+
+
+@MuhammadAsifShaikh :+1:
+
+Hello world
